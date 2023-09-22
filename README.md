@@ -21,5 +21,32 @@
 |[3. 오븐시계](https://github.com/SeoHee3478/CodingTest_JavaScript/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2525.%E2%80%85%EC%98%A4%EB%B8%90%E2%80%85%EC%8B%9C%EA%B3%84)|2023.09.08|
 |[4. 주사위 세개](https://github.com/SeoHee3478/CodingTest_JavaScript/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2480.%E2%80%85%EC%A3%BC%EC%82%AC%EC%9C%84%E2%80%85%EC%84%B8%EA%B0%9C)|2023.09.09|
 
+## 반복문 문제
+|제목|날짜|
+|------|---|
+|[1. 합](https://github.com/SeoHee3478/CodingTest_JavaScript/commit/b4df7950ba7ca84d76081589d9193f8b9f5b7f36)|2023.09.06|
+|[2. 구구단](https://github.com/SeoHee3478/CodingTest_JavaScript/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2739.%E2%80%85%EA%B5%AC%EA%B5%AC%EB%8B%A8)|2023.09.09|
+|[3. 별찍기 반복해서 풀기](https://github.com/SeoHee3478/CodingTest_JavaScript/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2438.%E2%80%85%EB%B3%84%E2%80%85%EC%B0%8D%EA%B8%B0%E2%80%85%EF%BC%8D%E2%80%851)|2023.09.09|
+
+## 배열 문제
+|제목|날짜|
+|------|---|
+|[1. 최소최대문제](https://github.com/SeoHee3478/CodingTest_JavaScript/tree/main/%EB%B0%B1%EC%A4%80/Bronze/10818.%E2%80%85%EC%B5%9C%EC%86%8C%EF%BC%8C%E2%80%85%EC%B5%9C%EB%8C%80)|2023.09.14|
+|[2. 최댓값](https://github.com/SeoHee3478/CodingTest_JavaScript/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2562.%E2%80%85%EC%B5%9C%EB%8C%93%EA%B0%92)|2023.09.14|
+|[3. 나머지](https://github.com/SeoHee3478/CodingTest_JavaScript/tree/main/%EB%B0%B1%EC%A4%80/Bronze/3052.%E2%80%85%EB%82%98%EB%A8%B8%EC%A7%80)|2023.09.14|
+|[4. 평균은 넘겠지](https://github.com/SeoHee3478/CodingTest_JavaScript/tree/main/%EB%B0%B1%EC%A4%80/Bronze/4344.%E2%80%85%ED%8F%89%EA%B7%A0%EC%9D%80%E2%80%85%EB%84%98%EA%B2%A0%EC%A7%80)|2023.09.14|
+|[5. 평균](https://github.com/SeoHee3478/CodingTest_JavaScript/tree/main/%EB%B0%B1%EC%A4%80/Bronze/1546.%E2%80%85%ED%8F%89%EA%B7%A0)|2023.09.16|
+
+## 문자열 문제
+|제목|날짜|
+|------|---|
+|[1. 숫자의합](https://github.com/SeoHee3478/CodingTest_JavaScript/tree/main/%EB%B0%B1%EC%A4%80/Bronze/11720.%E2%80%85%EC%88%AB%EC%9E%90%EC%9D%98%E2%80%85%ED%95%A9)|2023.09.18|
+|[2. 문자열 반복](https://github.com/SeoHee3478/CodingTest_JavaScript/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2675.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EB%B0%98%EB%B3%B5)|2023.09.18|
+|[3. 상수](https://github.com/SeoHee3478/CodingTest_JavaScript/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2908.%E2%80%85%EC%83%81%EC%88%98)|2023.09.20|
+|[4. 그룹단어체커](https://github.com/SeoHee3478/CodingTest_JavaScript/tree/main/%EB%B0%B1%EC%A4%80/Silver/1316.%E2%80%85%EA%B7%B8%EB%A3%B9%E2%80%85%EB%8B%A8%EC%96%B4%E2%80%85%EC%B2%B4%EC%BB%A4)|2023.09.20|
+|[5. 단어의 개수](https://github.com/SeoHee3478/CodingTest_JavaScript/tree/main/%EB%B0%B1%EC%A4%80/Bronze/1152.%E2%80%85%EB%8B%A8%EC%96%B4%EC%9D%98%E2%80%85%EA%B0%9C%EC%88%98)|2023.09.20|
+
+
+
 
 This is a auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
