@@ -46,7 +46,12 @@
 |[4. 그룹단어체커](https://github.com/SeoHee3478/CodingTest_JavaScript/tree/main/%EB%B0%B1%EC%A4%80/Silver/1316.%E2%80%85%EA%B7%B8%EB%A3%B9%E2%80%85%EB%8B%A8%EC%96%B4%E2%80%85%EC%B2%B4%EC%BB%A4)|2023.09.20|
 |[5. 단어의 개수](https://github.com/SeoHee3478/CodingTest_JavaScript/tree/main/%EB%B0%B1%EC%A4%80/Bronze/1152.%E2%80%85%EB%8B%A8%EC%96%B4%EC%9D%98%E2%80%85%EA%B0%9C%EC%88%98)|2023.09.20|
 
-
+## Ch 02. JavaScript 핵심 자료구조 알아보기
+|제목|날짜|
+|------|---|
+|[1. 자료구조(Data Structure)](https://github.com/SeoHee3478/CodingTest_JavaScript/tree/main/%EB%B0%B1%EC%A4%80/Bronze/11720.%E2%80%85%EC%88%AB%EC%9E%90%EC%9D%98%E2%80%85%ED%95%A9)|2023.09.22|
+|[2. 배열(Array)과 리스트(List)](https://github.com/SeoHee3478/CodingTest_JavaScript/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2675.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EB%B0%98%EB%B3%B5)|2023.09.24|
+|[3. JavaScript 스택(stack)](https://github.com/SeoHee3478/CodingTest_JavaScript/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2675.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EB%B0%98%EB%B3%B5)|2023.09.24|
 
 
 This is a auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
