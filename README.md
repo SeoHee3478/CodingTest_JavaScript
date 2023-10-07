@@ -53,6 +53,8 @@
 |[2. 배열(Array)과 리스트(List)](https://github.com/SeoHee3478/CodingTest_JavaScript/blob/main/%ED%95%B5%EC%8B%AC_%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0_%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0/02_%EB%B0%B0%EC%97%B4%EA%B3%BC%EB%A6%AC%EC%8A%A4%ED%8A%B8.md)|2023.09.24|
 |[3. JavaScript 스택(stack)](https://github.com/SeoHee3478/CodingTest_JavaScript/blob/main/%ED%95%B5%EC%8B%AC_%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0_%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0/03_%EC%8A%A4%ED%83%9D.md)|2023.09.24|
 |[4. JavaScript 큐(queue)](https://github.com/SeoHee3478/CodingTest_JavaScript/blob/main/%ED%95%B5%EC%8B%AC_%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0_%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0/04_%ED%81%90.md)|2023.09.24|
+|[5. 트리(Tree)와 우선순위 큐(Priority Queue)](https://github.com/SeoHee3478/CodingTest_JavaScript/blob/main/%ED%95%B5%EC%8B%AC_%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0_%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0/04_%ED%81%90.md)|2023.10.02|
+|[6. 그래프(Graph)의 표현](https://github.com/SeoHee3478/CodingTest_JavaScript/blob/main/%ED%95%B5%EC%8B%AC_%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0_%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0/04_%ED%81%90.md)|2023.10.06|
 
 
 This is a auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
