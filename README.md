@@ -56,5 +56,15 @@
 |[5. 트리(Tree)와 우선순위 큐(Priority Queue)](https://github.com/SeoHee3478/CodingTest_JavaScript/blob/main/%ED%95%B5%EC%8B%AC_%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0_%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0/05_%ED%8A%B8%EB%A6%AC%EC%99%80%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%ED%81%90.md)|2023.10.02|
 |[6. 그래프(Graph)의 표현](https://github.com/SeoHee3478/CodingTest_JavaScript/blob/main/%ED%95%B5%EC%8B%AC_%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0_%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0/06_%EA%B7%B8%EB%9E%98%ED%94%84%EC%9D%98%20%ED%91%9C%ED%98%84.md)|2023.10.06|
 
+## Ch 03. JavaScript 정렬(sorting) 알고리즘
+|제목|날짜|
+|------|---|
+|[1. 선택정렬](https://github.com/SeoHee3478/CodingTest_JavaScript/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EA%B0%9C%EB%85%90/%EC%A0%95%EB%A0%AC/01%EC%84%A0%ED%83%9D%EC%A0%95%EB%A0%AC.md)|2023.10.08|
+|[2. 버블정렬](https://github.com/SeoHee3478/CodingTest_JavaScript/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EA%B0%9C%EB%85%90/%EC%A0%95%EB%A0%AC/02%EB%B2%84%EB%B8%94%EC%A0%95%EB%A0%AC.md)|2023.10.08|
+|[3. 삽입정렬](https://github.com/SeoHee3478/CodingTest_JavaScript/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EA%B0%9C%EB%85%90/%EC%A0%95%EB%A0%AC/03%EC%82%BD%EC%9E%85%EC%A0%95%EB%A0%AC.md)|2023.10.16|
+|[4. 병합정렬](https://github.com/SeoHee3478/CodingTest_JavaScript/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EA%B0%9C%EB%85%90/%EC%A0%95%EB%A0%AC/04%EB%B3%91%ED%95%A9%EC%A0%95%EB%A0%AC.md)|2023.10.16|
+|[5. JavaScript 정렬 라이브러리](https://github.com/SeoHee3478/CodingTest_JavaScript/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EA%B0%9C%EB%85%90/%EC%A0%95%EB%A0%AC/05JavaScript_%EC%A0%95%EB%A0%AC_%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC.md)|2023.10.16|
+
+
 
 This is a auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
