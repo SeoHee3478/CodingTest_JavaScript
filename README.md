@@ -65,6 +65,17 @@
 |[4. 병합정렬](https://github.com/SeoHee3478/CodingTest_JavaScript/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EA%B0%9C%EB%85%90/%EC%A0%95%EB%A0%AC/04%EB%B3%91%ED%95%A9%EC%A0%95%EB%A0%AC.md)|2023.10.16|
 |[5. JavaScript 정렬 라이브러리](https://github.com/SeoHee3478/CodingTest_JavaScript/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EA%B0%9C%EB%85%90/%EC%A0%95%EB%A0%AC/05JavaScript_%EC%A0%95%EB%A0%AC_%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC.md)|2023.10.16|
 
+## Ch 04. JavaScript 탐욕법(greedy) 알고리즘
+|제목|날짜|
+|------|---|
+|[1. 동전](https://github.com/SeoHee3478/CodingTest_JavaScript/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EA%B0%9C%EB%85%90/%EC%A0%95%EB%A0%AC/01%EC%84%A0%ED%83%9D%EC%A0%95%EB%A0%AC.md)|2023.10.08|
+|[2. ATM](https://github.com/SeoHee3478/CodingTest_JavaScript/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EA%B0%9C%EB%85%90/%EC%A0%95%EB%A0%AC/02%EB%B2%84%EB%B8%94%EC%A0%95%EB%A0%AC.md)|2023.10.08|
+|[3. 잃어버린 괄호](https://github.com/SeoHee3478/CodingTest_JavaScript/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EA%B0%9C%EB%85%90/%EC%A0%95%EB%A0%AC/03%EC%82%BD%EC%9E%85%EC%A0%95%EB%A0%AC.md)|2023.10.16|
+|[4. 설탕배달](https://github.com/SeoHee3478/CodingTest_JavaScript/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EA%B0%9C%EB%85%90/%EC%A0%95%EB%A0%AC/04%EB%B3%91%ED%95%A9%EC%A0%95%EB%A0%AC.md)|2023.10.16|
+|[5. A->B](https://github.com/SeoHee3478/CodingTest_JavaScript/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EA%B0%9C%EB%85%90/%EC%A0%95%EB%A0%AC/05JavaScript_%EC%A0%95%EB%A0%AC_%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC.md)|2023.10.16|
+|[6. 수들의 합](https://github.com/SeoHee3478/CodingTest_JavaScript/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EA%B0%9C%EB%85%90/%EC%A0%95%EB%A0%AC/05JavaScript_%EC%A0%95%EB%A0%AC_%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC.md)|2023.10.16|
+|[7. 신입사원](https://github.com/SeoHee3478/CodingTest_JavaScript/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EA%B0%9C%EB%85%90/%EC%A0%95%EB%A0%AC/05JavaScript_%EC%A0%95%EB%A0%AC_%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC.md)|2023.10.16|
+
 
 
 This is a auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
